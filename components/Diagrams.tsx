@@ -587,7 +587,7 @@ export const DigitalToolsPyramid: React.FC = () => {
                         <div className="text-xs text-const-blue font-bold mb-1">推荐：斗栱云 (DouGongYun)</div>
                         <p className="text-xs text-gray-500">
                             <strong>适用：</strong> 需要精细化管理，寻求利润增长的中小建企。<br/>
-                            <strong>核心：</strong> 成本、进度、物资、合同全周期管理。业财一体化。
+                            <strong>核心：</strong> 成本、进度、物资、合同全周期管理。
                         </p>
                     </div>
                 </div>
